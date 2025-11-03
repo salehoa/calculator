@@ -13,8 +13,8 @@
   - واجهة مستخدم عربية متجاوبة
 
 ## الروابط
-- **المعاينة المباشرة**: https://3000-in10ayuk19kzta1vgvatv-c07dda5e.sandbox.novita.ai
-- **GitHub**: (سيتم إضافته بعد الرفع)
+- **المعاينة المباشرة**: https://3000-i8bms3hp07mane6oz8rsb-2b54fc91.sandbox.novita.ai
+- **GitHub**: https://github.com/salehoa/calculator
 
 ## هيكل البيانات
 - **نموذج البيانات**: 
